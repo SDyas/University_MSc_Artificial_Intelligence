@@ -1,1 +1,1 @@
-# University_MSc_Artificial_Intelligence
+# Msc Artificial Intelligence
