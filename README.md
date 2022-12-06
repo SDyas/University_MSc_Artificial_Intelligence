@@ -1,1 +1,1 @@
-# Msc Artificial Intelligence
+# Msc. Artificial Intelligence
